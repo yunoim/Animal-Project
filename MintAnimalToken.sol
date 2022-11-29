@@ -13,4 +13,3 @@ contract MintAnimalToken is ERC721Enumerable {
         _mint(msg.sender, animalTokenId);
     }
 }
-}
