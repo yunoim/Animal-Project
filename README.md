@@ -1,1 +1,1 @@
-# Animal Project
+# Animal Project: NFT Minting test
