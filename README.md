@@ -1,1 +1,1 @@
-# Solidity Studies by yunoim
+# Animal Project
